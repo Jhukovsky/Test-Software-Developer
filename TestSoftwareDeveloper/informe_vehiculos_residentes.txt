@@ -1,0 +1,4 @@
+*Informe de vehiculos residentes*
+
+Num. placa | Tiempo estacionado(min.) | Cantidad a pagar
+ASD1235|183|9.15
